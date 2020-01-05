@@ -164,10 +164,11 @@ class MainActivity : AppCompatActivity() {
         val n2 = Random().nextInt(percentage2.count())
     //        val nItem2: Int = n2
 
-        for (i in item) {println( "applog_item: " + i) }
-        for (i in percentage) {println( "applog_percentage: " + i) }
-        for (i in item2) {println( "applog_item2: " + i) }
-        for (i in percentage2) {println( "applog_percentage2: " + i) }
+//        //確認用
+//        for (i in item) {println( "applog_item: " + i) }
+//        for (i in percentage) {println( "applog_percentage: " + i) }
+//        for (i in item2) {println( "applog_item2: " + i) }
+//        for (i in percentage2) {println( "applog_percentage2: " + i) }
 
     //        answerBtn1.text = i
     //        answerBtn2.text = item2.getAA()
