@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">パーセントクイズ</string>
+    <string name="count_label">Q1</string>
+    <string name="question_label">％が高いのはどっち？</string>
+    <string name="answer_button1">Button</string>
+    <string name="answer_button2">Button</string>
+    <string name="reset_button">リセット</string>
+    <string name="result_text_view" />
+    <string name="kaisetsu_text_view1" />
+    <string name="kaisetsu_text_view2" />
+</resources>
